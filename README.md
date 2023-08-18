@@ -1,4 +1,4 @@
-# appFramelayout
+# Diseño Visual Interface Clase
 
 | Imagen | Imagen |
 | ------ | ------ |
